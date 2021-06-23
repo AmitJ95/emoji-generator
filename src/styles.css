@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  padding: 1rem;
+}
+
+input {
+  width: 30%;
+  font-size: 1rem;
+  height: 2rem;
+}
+body {
+  margin: 0;
+  background-color: aliceblue;
+  font-family: "Nunito", sans-serif;
+}
